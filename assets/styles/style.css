@@ -619,6 +619,9 @@ body {
     line-height: 18px;
     letter-spacing: -0.16px;
 }
+.work-block__decoration {
+    top: 40px;
+}
 
 /* ========== DISHES-BLOCK ========== */
 .dishes-block__text {
@@ -799,6 +802,10 @@ body {
     margin-bottom: 24px;
 }
 
+.chefs-block__decoration {
+    top: 40px;
+}
+
 .chefs-block__name {
     color: #FFFFFF;
     font-size: 18px;
@@ -820,7 +827,7 @@ body {
 
 @media (max-width: 526px) {
     .chefs-block__title {
-        top: 28px;
+        top: 18px;
     }
 }
 
@@ -875,6 +882,10 @@ body {
     line-height: 30px;
     color: #fff;
     margin-bottom: 25px;
+}
+
+.recipes-block__decoration  {
+    top: 40px;
 }
 
 .main-block__description {
@@ -1046,7 +1057,9 @@ body {
     .meals-column__name {
         margin-bottom: 4px;
     }
-
+    .recipes-block__decoration {
+        top: 50px;
+    }
 }
 
 
@@ -1089,6 +1102,10 @@ body {
     margin-left: 20px;
 }
 
+
+.social-block__decoration {
+    top: 45px;
+}
 .social-info__body {
     padding: 30px;
 }
