@@ -7,6 +7,7 @@ HTML,
 CSS,
 Flex,
 Grid
+BEM
 
 JS
 
